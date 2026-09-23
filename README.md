@@ -4,23 +4,23 @@ A Power BI dashboard project focused on analyzing sales, orders, customers, prod
 
 ## Dashboard Preview
 
-![Executive Summary](screenshots/executive-summary.png)
+![Executive Summary](screenshots/01-executive-summary.png)
 
 ### Other Dashboard Pages
 
-![Product Performance](screenshots/product-performance.png)
+![Product Performance](screenshots/02-product-performance.png)
 
-![Customer Segment Analysis](screenshots/customer-segment.png)
+![Customer Segment Analysis](screenshots/03-customer-segment.png)
 
-![Warehouse Performance](screenshots/warehouse-performance.png)
+![Warehouse Performance](screenshots/04-warehouse-performance.png)
 
-![Supplier Performance](screenshots/supplier-performance.png)
+![Supplier Performance](screenshots/05-supplier-performance.png)
 
-![Monthly Sales Trend](screenshots/monthly-sales-trend.png)
+![Monthly Sales Trend](screenshots/06-monthly-sales-trend.png)
 
-![Discount Analysis](screenshots/discount-analysis.png)
+![Discount Analysis](screenshots/07-discount-analysis.png)
 
-![Delivery Performance](screenshots/delivery-performance.png)
+![Delivery Performance](screenshots/08-delivery-performance.png)
 
 ## Project Overview
 
