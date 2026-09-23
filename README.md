@@ -2,6 +2,26 @@
 
 A Power BI dashboard project focused on analyzing sales, orders, customers, products, warehouses, suppliers, discounts, and delivery performance.
 
+## Dashboard Preview
+
+![Executive Summary](screenshots/executive-summary.png)
+
+### Other Dashboard Pages
+
+![Product Performance](screenshots/product-performance.png)
+
+![Customer Segment Analysis](screenshots/customer-segment.png)
+
+![Warehouse Performance](screenshots/warehouse-performance.png)
+
+![Supplier Performance](screenshots/supplier-performance.png)
+
+![Monthly Sales Trend](screenshots/monthly-sales-trend.png)
+
+![Discount Analysis](screenshots/discount-analysis.png)
+
+![Delivery Performance](screenshots/delivery-performance.png)
+
 ## Project Overview
 
 This project uses Power BI to explore supply chain data and identify important business patterns across sales, customers, products, warehouses, suppliers, and delivery operations.
